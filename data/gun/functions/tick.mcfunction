@@ -1,0 +1,1 @@
+execute as @e[type=minecart] run function gun:minecart_shooting
